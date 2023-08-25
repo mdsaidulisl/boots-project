@@ -1,0 +1,81 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+
+/* headersection */
+
+.headersection{
+  
+}
+.mylogo{
+    margin-right: 50px;
+}
+
+.mylogo a {
+    font-size: 25px;
+}
+
+/* slidersection */
+
+.boro{
+    font-size: 40px;
+}
+.para {
+    margin-bottom: 26rem;
+ }
+
+ /* tableandform */
+
+ .tableandform{
+    padding: 100px 0;
+    background-color:#f8f9fa ;
+ }
+
+ /* formsection */
+
+ .formsection{
+    margin-left: 50px;
+ }
+
+ /* cardsection */
+
+ .cardsection{
+    padding: 60px 0;
+ }
+ .mycard{
+    
+ }
+ img{
+    width: 100%;
+ }
+
+ /* strechedsection */
+
+ .strechedsection{
+    padding: 50px 0;
+    background-color:#f8f9fa ;
+ }
+ .strechedsection h3{
+
+ }
+
+ /* nextsection */
+
+ .next {
+    margin-left: 40%;
+    padding-top: 20px;
+}
+
+/* footersection */
+
+.footersection {
+    background-color: black;
+    padding: 3px 0;
+}
+.footersection p {
+    font-size: 20px;
+    padding-top: 11px;
+    color: #fff;
+}
